@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Vaccine
+comment1.params=
+comment1.target=Vaccine()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\r\n\ Collision\ between\ two\ cells\ objects\ for\ "curing\ infection"\r\n\ If\ two\ cells\ objects\ collide\ they\ have\ a\ possibility\ of\ curing\!\r\n\ @param\ p2\r\n
+numComments=3
